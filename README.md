@@ -61,11 +61,11 @@ Your final report should include each of the following:
 
    Identify the 5 most popular items by purchase count, then list (in a table):
 
-   *Item ID
-   *Item Name
-   *Purchase Count
-   *Item Price
-   *Total Purchase Value
+      *Item ID
+      *Item Name
+      *Purchase Count
+      *Item Price
+      *Total Purchase Value
 
 
 
@@ -74,29 +74,29 @@ Your final report should include each of the following:
 
    Identify the 5 most profitable items by total purchase value, then list (in a table):
 
-   *Item ID
-   *Item Name
-   *Purchase Count
-   *Item Price
-   *Total Purchase Value
+      *Item ID
+      *Item Name
+      *Purchase Count
+      *Item Price
+      *Total Purchase Value
 
 
 
 **As final considerations:**
 
-   *You must use the Pandas Library and the Jupyter Notebook.
-   *You must submit a link to your Jupyter Notebook with the viewable Data Frames.
-   *You must include a written description of three observable trends based on the data.
-   *See Example Solution for a reference on expected format.
+      *You must use the Pandas Library and the Jupyter Notebook.
+      *You must submit a link to your Jupyter Notebook with the viewable Data Frames.
+      *You must include a written description of three observable trends based on the data.
+      *See Example Solution for a reference on expected format.
 
 
 
-###Observations
+## Observations ##
 
-   1.	From the Gender Demographic analysis, it is inferred that majority of the users are male (84%) whereas female players only constitute up to (14%). Analyzing the purchase behavior based on gender shows that even though women purchase less items, their average purchase price is (5.65%) more than the average purchase price for men 
-   2.	Age demographic analysis shows the highest purchase group falls between 20-24 (44.79%) followed by group between 15-19 (18.58%) and 25-29 (13.37%). Their purchase analyses show that the 20-24 also spend more money almost 3 times to the money spend by next 15-19 group.  Another interesting observation is that the highest average purchase group is 35-39 and they are almost 9% more than the 20-24 group.
-   3.	With the popular and profitable analysis, it is noted that the most popular items are also the most profitable ones.  
- 
+      1.	From the Gender Demographic analysis, it is inferred that majority of the users are male (84%) whereas female players only constitute up to (14%). Analyzing the purchase behavior based on gender shows that even though women purchase less items, their average purchase price is (5.65%) more than the average purchase price for men 
+      2.	Age demographic analysis shows the highest purchase group falls between 20-24 (44.79%) followed by group between 15-19 (18.58%) and 25-29 (13.37%). Their purchase analyses show that the 20-24 also spend more money almost 3 times to the money spend by next 15-19 group.  Another interesting observation is that the highest average purchase group is 35-39 and they are almost 9% more than the 20-24 group.
+      3.	With the popular and profitable analysis, it is noted that the most popular items are also the most profitable ones.  
+
 
 
 
