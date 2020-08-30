@@ -1,23 +1,23 @@
 ## Heros Of Pymoli ##
 
 
-**Background **
+**Background**
 
 Congratulations! After a lot of hard work in the data munging mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
 Your final report should include each of the following:
 
-**Player Count **
+**Player Count**
 
-    Total Number of Players
+    *Total Number of Players*
 
 
-**Purchasing Analysis (Total) **
+**Purchasing Analysis (Total)**
 
-   Number of Unique Items
-   Average Purchase Price
-   Total Number of Purchases
-   Total Revenue
+   *Number of Unique Items*
+   *Average Purchase Price*
+   *Total Number of Purchases*
+   *Total Revenue*
 
 
 **Gender Demographics**
@@ -59,9 +59,7 @@ Your final report should include each of the following:
   Total Purchase Value
 
 
-
-
-Most Popular Items
+**Most Popular Items**
 
 Identify the 5 most popular items by purchase count, then list (in a table):
 
@@ -74,7 +72,7 @@ Total Purchase Value
 
 
 
-Most Profitable Items
+**Most Profitable Items**
 
 Identify the 5 most profitable items by total purchase value, then list (in a table):
 
@@ -86,7 +84,7 @@ Total Purchase Value
 
 
 
-As final considerations:
+**As final considerations:**
 
 You must use the Pandas Library and the Jupyter Notebook.
 You must submit a link to your Jupyter Notebook with the viewable Data Frames.
